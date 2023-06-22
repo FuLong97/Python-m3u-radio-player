@@ -39,7 +39,7 @@ The Radio Stream Player is open-source and released under the [MIT License](LICE
 
 ## Acknowledgments
 
-The Radio Stream Player was developed using the tkinter library for GUI and the vlc library for media playback. We extend our gratitude to the developers of these libraries for their excellent work.
+The Radio Stream Player was developed using the tkinter library for GUI and the vlc library for media playback. The radio stream player utilizes the ttkbootstrap library, which is a Python package that enhances the appearance and functionality of the user interface elements. It leverages the ttk module from Tkinter and provides a wide range of modern and visually appealing styles for widgets, such as buttons, labels, scales, and more. We extend our gratitude to the developers of these libraries for their excellent work.
 
 If you have any questions, feedback, or suggestions, please don't hesitate to open an issue or contact the project maintainers.
 
