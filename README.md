@@ -1,4 +1,4 @@
-# Radio Stream Player Pywave Tunes
+# Radio Stream Player
 
 The Radio Stream Player is a Python application that allows users to play and control radio streams through a graphical user interface (GUI). It leverages the tkinter library for creating the GUI and the vlc library for handling media playback.
 
